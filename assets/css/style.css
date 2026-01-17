@@ -134,7 +134,7 @@
       / 1fr;
   }
 
-  main {
+  .main-container {
     grid-area: main;
     display: grid;
     place-items: center;
@@ -260,4 +260,5 @@
     display: none;
   }
 }
+
 
