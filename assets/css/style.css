@@ -134,7 +134,7 @@
       / 1fr;
   }
 
-  .main-container {
+  main {
     grid-area: main;
     display: grid;
     place-items: center;
@@ -220,7 +220,7 @@
     }
   }
 
-  #page-footer {
+  .page-footer {
     grid-area: footer;
     text-align: center;
     padding-block: var(--spacing-1);
@@ -260,6 +260,3 @@
     display: none;
   }
 }
-
-
-
