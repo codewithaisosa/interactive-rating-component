@@ -172,7 +172,7 @@
       }
 
       .rating__scores {
-        margin-block: var(--spacing-2);
+        margin-block: var(--spacing-4);
         display: flex;
         gap: var(--spacing-1);
         flex-wrap: wrap;
