@@ -143,7 +143,7 @@
 
   .rating-widget {
     background: var(--bg-card);
-    width: min(100% - var(--spacing-4), 37rem);
+    width: min(100% - var(--spacing-3), 37rem);
     margin: 0 auto;
     padding: var(--spacing-2);
     border-radius: 16px;
